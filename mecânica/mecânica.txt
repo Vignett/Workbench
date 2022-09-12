@@ -1,0 +1,3 @@
+Contexto Mecânica:
+
+Esquema de Ordem de Serviço, contendo as entidades de Clientes, OS, Execução, Mão de Obra, Equipe e Mecânicos, além de detalhar as conexões que cada entidade tem no processo.
